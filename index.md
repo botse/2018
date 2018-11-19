@@ -25,16 +25,15 @@ Papers may address issues along the general themes, including but not limited, t
 - Experiences using bot frameworks in software systems
 
 ## **Important Dates**
-Papers due:	            month-day, 2019 <br>
-Author notification:	month-day, 2019 <br>
-Camera ready:	        month-day, 2019 <br>
+Submissions due: Feb 1, 2019 <br>
+Notifications: Mar 1, 2019 <br>
+Camera-ready due: March 15, 2019 <br>
 
 ## **Program Committee**
 
 Marco Gerosa - Northern Arizona University <br>
 Regina Hebig - University of Gothenburg <br>
 David Lo - Singapore Management University <br>
-Josh Nichols - GitHub <br>
 Chris Parnin - North Carolina State University <br>
 Riccardo Scandariato - University of Gothenburg <br>
 Lionel Seinturier - University of Lille & Inria Lille <br>
