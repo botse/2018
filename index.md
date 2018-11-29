@@ -1,4 +1,4 @@
-
+<img src="botlogo.png" width="100%" height="401px">
 <div style="text-align:center">
 <h2><b> 
 Call for Papers <br>
