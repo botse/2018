@@ -54,3 +54,26 @@ Xin Xia - Monash University <br>
 Zhenchang Xing - Australian National University <br>
 Alexey Zagalsky - University of Victoria <br>
 Martin Monperrus - KTH Royal Institute of Technology
+
+<footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h4><strong>App Market Analytics</strong>
+                    </h4>
+                    <p><br></p>
+                    <br>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://twitter.com/WAMA_2017"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/WAMA-769213456552609/"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <hr class="small">
+                    <p class="text-muted"></p>
+               </div>
+           </div>
+       </div>
+</footer>
