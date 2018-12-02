@@ -173,8 +173,9 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    min-height: 833px;
-    background: url(../img/bot.png) no-repeat center center scroll;
+    /*min-height: 833px;*/
+    /*background: url(../img/bot.png) no-repeat center center scroll;*/
+    background-color: #54727D;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
